@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/8/25 16:42:20。
+     1>项目“D:\S\playing\chesspadNEW\chesspadNEW\chesspadNEW\chesspadNEW.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\U\drivers\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\S\playing\chesspadNEW\chesspadNEW\Release\chesspadNEW.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\S\playing\chesspadNEW\chesspadNEW\Release\chesspadNEW.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\S\playing\chesspadNEW\chesspadNEW\Release\chesspadNEW.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO Release\chesspadORI.obj
+         Release\main.obj
+         Release\openglSupport.obj
+         正在生成代码
+         已完成代码的生成
+         chesspadNEW.vcxproj -> D:\S\playing\chesspadNEW\chesspadNEW\Release\chesspadNEW.exe
+     1>已完成生成项目“D:\S\playing\chesspadNEW\chesspadNEW\chesspadNEW\chesspadNEW.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.82
